@@ -1,1 +1,1 @@
-print("powri hori hai")
+print("hello world")
